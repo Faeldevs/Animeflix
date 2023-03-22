@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Image preview
+
+![animeflix1](https://user-images.githubusercontent.com/103973828/226933526-ac8023de-fafd-445b-88ee-f85d3d109ee4.png)
+
+![animeflix2](https://user-images.githubusercontent.com/103973828/226933560-c458c945-e129-4ba6-b3a4-c46926628072.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
