@@ -1,0 +1,46 @@
+section{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    width: 100%;
+    
+}
+
+.carrossel{
+    padding: 3em;
+}
+
+.carrossel-imagens{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1em;
+}
+
+.imagens-info img{
+    padding: 1em;
+    width: 300px;
+    height: 500px;
+}
+
+.imagens-info p{
+    text-align: center;
+    color: #fff;
+    font-size: 1.1rem;
+    font-style: italic;
+}
+
+.imagens-info img:hover{
+    transform: scale(1.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+@media screen and (max-width: 700px){
+
+    .imagens-info img{
+        height: auto;
+        
+    }
+    .carrossel{
+        padding: 2em;
+    }
+}
